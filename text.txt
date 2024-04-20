@@ -1,1 +1,2 @@
 normal text
+SSH connecting test
